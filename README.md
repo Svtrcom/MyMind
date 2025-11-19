@@ -1,1 +1,1 @@
-# Read me file Conflict
+# Read me file Master and Conflict
